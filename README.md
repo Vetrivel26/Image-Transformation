@@ -43,8 +43,8 @@ Display all the Transformed images.
 
 ## Program:
 ```python
-Developed By: Swetha.K.P
-Register Number:212220230053
+Developed By: VETRIVEL S
+Register Number:212221240060
 import numpy as np
 import cv2
 import matplotlib.pyplot as plt
